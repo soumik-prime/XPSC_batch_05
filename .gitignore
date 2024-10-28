@@ -1,0 +1,8 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore binary files
+*.bin
+
+# Ignore .cph folder (Competitive Programming Helper plugin)
+.cph/
