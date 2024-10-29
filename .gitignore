@@ -4,5 +4,5 @@
 # Ignore binary files
 *.bin
 
-# Ignore .cph folder (Competitive Programming Helper plugin)
-.cph/
+# Ignore .week_00/ folder
+.week_00/
