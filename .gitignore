@@ -6,3 +6,5 @@
 
 # Ignore .week_00/ folder
 .week_00/
+.cph/
+.vscode/
